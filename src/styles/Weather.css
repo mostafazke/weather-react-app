@@ -1,0 +1,22 @@
+.Weather h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Weather .icon {
+    font-size: 5rem;
+    margin-right: 20px;
+}
+.Weather button {
+    display: flex;
+    align-items: flex-start;
+}
+.Weather button .temp {
+    font-size: 10rem
+}
+.Weather button .unit {
+    font-size: 1.8rem
+}
+.Weather .cond {
+    font-size: 2rem
+}

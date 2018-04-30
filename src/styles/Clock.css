@@ -1,0 +1,34 @@
+.Clock {
+    text-align: left;
+    position: relative;
+}
+.Clock .icon {
+	font-size: 1.7rem;
+	margin-right: 8px
+}
+.Clock button {
+	font-size: 2rem;
+}
+
+.Clock h2 {
+	font-size: 1.8rem;
+    margin-top: 10px;
+    cursor: pointer
+}
+/* .Clock span {
+	display: none;
+	font-size: .5em;
+	position: absolute;
+	width: 250px;
+	top: 110%;
+	left: 0
+}
+.Clock input {
+	display: block;
+	background-color: transparent;
+	border-radius: 8px;
+	width: 50%;
+	padding: 5px;
+	font-size: 1.3125em;
+    margin-top: 10px
+} */

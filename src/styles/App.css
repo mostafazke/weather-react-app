@@ -1,0 +1,20 @@
+.App {
+    background-size: cover;
+    background-position: center;
+    font-family: 'Roboto', sans-serif;
+    height: 100%;
+    transition: background-image .3s ease-in-out;
+}
+.App .overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  text-align: center;
+  color: #fff;
+  height: 100%;
+  background: rgba(0, 0, 0, .5);
+}
+.App .top {
+	display: flex;
+	justify-content: space-around;
+}

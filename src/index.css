@@ -1,0 +1,11 @@
+/* Start Global */
+#root {
+    height: 100vh
+}
+
+button {
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+}
+/* End Global */
